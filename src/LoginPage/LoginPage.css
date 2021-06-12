@@ -1,5 +1,5 @@
 .Login-Container{
-    background-image: url("C:\React\intro\src\asset\background.jpg");
+    background-image: url("../asset/background.jpg");
     background-position:center;
     background-repeat:initial;
     min-height: 100vh;
