@@ -1,0 +1,47 @@
+.App {
+    text-align: center;
+  }
+  
+.App-header {
+    background-color: #080f19;
+    background-image: url("C:\React\intro\src\asset\background.jpg");
+    background-position:center;
+    background-repeat:initial;
+    min-height: 100vh;
+    padding: 4vmin;
+    margin: 0;
+    padding-bottom: 0;
+    align-items:baseline;
+    justify-content:space-between;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+  
+.App-link {
+    color: #61dafb;
+}
+.Card-Holder{
+    flex-direction: row ;
+    padding: 10vmin;
+    
+}
+.Signup-part{
+    padding: 5vmin;
+    color: antiquewhite;
+    background-color: #080f19;
+    align-items: center;
+    justify-content: center;
+}
+.Contact-us{
+    padding: 4vmin;
+    margin: 4vmin;
+}
+@keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+}
+  

@@ -1,0 +1,10 @@
+.Login{
+    padding: 15px;
+    max-height: 40vh;
+    max-width: 40vw;
+    font-size: calc(10px + 2vmin);
+    color: #ffc107;
+    background-color: white;
+    opacity: 0.87;
+    border-radius: 7px;
+}

@@ -1,0 +1,11 @@
+.Footer{
+    font-size: calc(5px + 2vmin);
+    padding: 3vmin;
+    background-color: black;
+    color: white;
+    justify-content: space-around;
+    max-height: 20vh;
+}
+.Social{
+    justify-content: space-evenly;
+}

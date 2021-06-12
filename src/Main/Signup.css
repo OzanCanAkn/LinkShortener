@@ -1,0 +1,6 @@
+.RegisterNow-Row{
+    margin: 5vmin;
+    font-size: calc(10px + 2vmin);
+        justify-content: center;
+    align-items: center;
+}

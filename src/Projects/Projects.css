@@ -1,0 +1,49 @@
+.Menu{
+    align-items: center;
+    justify-content: center;
+    padding: 1vh 3vw;
+    height: 100vh;
+    background-color:black;
+    color: blanchedalmond;
+    max-width: 15vw;
+    text-align: center;
+}
+.Menu-Content-1{
+    padding: 1vh 2vw;
+    margin-top: 4vw;
+    margin-bottom: 5vw;
+    background-color: cornsilk;
+    color: grey;
+    border: grey solid 5px;
+    border-radius: 5px;
+    height: max-content;
+    align-items: center;
+    justify-content: center;
+}
+.Menu-Content{
+    text-align: center;
+    padding: 5px;
+    height: max-content;
+    align-items: center;
+    justify-content: center;
+    border: solid ;
+    border-left: 3vw;
+    border-right: 3vw;
+
+}
+.a{
+    text-decoration: none;
+    color:blanchedalmond ;
+}
+.a:hover{
+    color: black;
+}
+.Menu-Content:hover{
+    background-color: blanchedalmond;
+    color: black;
+}
+.Converter-Box{
+    align-items: center;
+    height: 100vh;
+    max-width: 30vw;
+}
