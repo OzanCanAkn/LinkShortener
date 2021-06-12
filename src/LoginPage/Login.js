@@ -27,7 +27,6 @@ export default class Login extends Component {
                 alertify.error('Your password is wrong');
             }
         }
-        setTimeout(function(){ alertify.error("asd") }, 4000);
     }
     render() {
         return (
